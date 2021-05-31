@@ -20,11 +20,11 @@ export const contact = {
 }
 
 export const socialLinks = {
-    "facebook": "https://www.facebook.com/1hanzla100",
-    "instagram": "https://www.instagram.com/1hanzla100",
-    "twitter": "https://twitter.com/1hanzla100",
+    "facebook": "https://www.facebook.com/sandile263",
+    
+    "twitter": "https://twitter.com/zimanalytica",
     "github": "https://github.com/sandile263",
-    "linkedin": "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/"
+    "linkedin": "https://linkedin.com/in/sandile-maphosa-a81a78107/"
 }
 
 export const skillsSection = {
@@ -116,7 +116,7 @@ export const skillsSection = {
 export const SkillBars = [
     {
       Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-      progressPercentage: '90', //Insert relative proficiency in percentage
+      progressPercentage: '80', //Insert relative proficiency in percentage
     },
     {
       Stack: 'Backend',
@@ -130,9 +130,9 @@ export const SkillBars = [
 
 export const educationInfo = [
     {
-      schoolName: 'Harvard University',
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
+      schoolName: 'Mutare Polytechnic',
+      subHeader: 'Diploma in Information Technology',
+      duration: 'January 2015 - April 2019',
       desc: 'Participated in the research of XXX and published 3 papers.',
       descBullets: [
         'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
@@ -140,31 +140,24 @@ export const educationInfo = [
       ],
     },
     {
-      schoolName: 'Harvard',
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
+      schoolName: 'Udacity(Facebook Scholarship)',
+      subHeader: 'Deep Learning Nanodegree',
+      duration: 'January 2020 - July 2020',
       desc: 'Participated in the research of XXX and published 3 papers.',
       descBullets: [
         'Lorem ipsum dolor sit amet, consectetfgur adipiscing elit',
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       ],
     },
-    {
-      schoolName: 'Stanford University',
-      subHeader: 'Bachelor of Science in Computer Science',
-      duration: 'September 2013 - April 2017',
-      desc:
-        'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit'],
-    },
+    
 ]
 
 export const experience = [
   {
-    role: 'Software Engineer',
-    company: 'Google',
+    role: 'IT Intern',
+    company: 'Njere Microfinance',
     companylogo: googlelogo,
-    date: 'June 2018 – Present',
+    date: 'January 2017 – December 2017',
     desc:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     descBullets: [
@@ -173,38 +166,47 @@ export const experience = [
     ],
   },
   {
-    role: 'Front-End Developer',
-    company: 'Github',
+    role: 'Business Development Manager',
+    company: 'Cumulus1',
     companylogo: github,
-    date: 'May 2017 – May 2018',
+    date: 'January 2019 – Present',
     desc:
       'Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
-  {
-    role: 'Software Engineer Intern',
-    company: 'Airbnb',
-    companylogo: airbnb,
-    date: 'Jan 2015 – Sep 2015',
-    desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
+  
 ]
 
 export const projects = [
   {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    name: "Teaching A Quadcopter How To Fly",
+    desc: "Its goal is to teach a quadcopter how to fly thanks to reinforcement learning.",
     link: {
-      name: "hanzla",
-      url: "kasjfklsdjf"
+      name: "Teaching A Quadcopter How To Fly",
+      url: "https://github.com/sandile263/Teaching-A-Quadcopter-How-To-Fly-master"
+    }
+  },
+  {
+    name: "Face generation with dlnd",
+    desc: "In this project, i used generative adversarial networks to generate new images of faces.",
+    link: {
+      name: "Face generation with dlnd",
+      url: "https://github.com/sandile263/Face-generation-with-dlnd"
+    }
+  },
+  {
+    name: "Dog Breed Classification",
+    desc: "A Web Application I developed using Flask through which a user can check if an uploaded image is that of a dog or human",
+    link: {
+      name: "Dog Breed Classification",
+      url: "https://github.com/sandile263/Dog-Breed-Classification-Project"
+    }
+  },
+    {
+    name: "Predicting Bike Sharing Patterns",
+    desc: "In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset! I implemented the neural network from scratch by implementing the gradient descent step and backpropagation through the network.",
+    link: {
+      name: "Dog Breed Classification",
+      url: "https://github.com/sandile263/Predicting-Bike-Sharing-Patterns"
     }
   }
 ]
