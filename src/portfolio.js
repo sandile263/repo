@@ -5,7 +5,7 @@ export const greetings = {
     "name": "Sandile Maphosa",
     "title": "Hi all, I'm Sandile",
     "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-    "resumeLink": "https://cv.hanzla.ga"
+    "resumeLink": "https://linkedin.com/in/sandile-maphosa-a81a78107"
 }
 
 export const openSource = {
@@ -130,21 +130,15 @@ export const educationInfo = [
       schoolName: 'Mutare Polytechnic',
       subHeader: 'Diploma in Information Technology',
       duration: 'January 2015 - April 2019',
-      desc: 'Participated in the research of XXX and published 3 papers.',
-      descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
+      desc: 'Obtained a Diploma in ICT',
+     
     },
     {
       schoolName: 'Udacity(Facebook Scholarship)',
       subHeader: 'Deep Learning Nanodegree',
       duration: 'January 2020 - July 2020',
-      desc: 'Participated in the research of XXX and published 3 papers.',
-      descBullets: [
-        'Lorem ipsum dolor sit amet, consectetfgur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
+      desc: 'Participated in the research of Deep Learning.',
+     
     },
     
 ]
