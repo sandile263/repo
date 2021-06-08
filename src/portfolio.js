@@ -150,11 +150,7 @@ export const experience = [
     companylogo: googlelogo,
     date: 'January 2017 – December 2017',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    descBullets: [
-      'Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    ],
+      'IT Intern',
   },
   {
     role: 'Business Development Manager',
@@ -162,7 +158,7 @@ export const experience = [
     companylogo: github,
     date: 'January 2019 – Present',
     desc:
-      'Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Business Development Manager',
   },
   
 ]
