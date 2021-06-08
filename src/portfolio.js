@@ -113,7 +113,7 @@ export const skillsSection = {
 export const SkillBars = [
     {
       Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-      progressPercentage: '80', //Insert relative proficiency in percentage
+      progressPercentage: '60', //Insert relative proficiency in percentage
     },
     {
       Stack: 'Backend',
@@ -196,7 +196,7 @@ export const projects = [
     name: "Predicting Bike Sharing Patterns",
     desc: "In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset! I implemented the neural network from scratch by implementing the gradient descent step and backpropagation through the network.",
     link: {
-      name: "Dog Breed Classification",
+      name: "Predicting Bike Sharing Patterns",
       url: "https://github.com/sandile263/Predicting-Bike-Sharing-Patterns"
     }
   }
