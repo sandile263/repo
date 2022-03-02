@@ -156,11 +156,20 @@ export const experience = [
     role: 'Business Development Manager',
     company: 'Cumulus1',
     companylogo: github,
-    date: 'January 2019 – Present',
+    date: 'January 2019 – October 2021',
     desc:
       'Business Development Manager',
   },
   
+{
+    role: 'Operations Technician',
+    company: 'Zimbabwe Shared Services',
+    companylogo: github,
+    date: 'January 2022 – February 2022',
+    desc:
+      'Operations Technician',
+  },
+
 ]
 
 export const projects = [
