@@ -113,15 +113,15 @@ export const skillsSection = {
 export const SkillBars = [
     {
       Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-      progressPercentage: '60', //Insert relative proficiency in percentage
+      progressPercentage: '70', //Insert relative proficiency in percentage
     },
     {
       Stack: 'Backend',
-      progressPercentage: '70',
+      progressPercentage: '75',
     },
     {
       Stack: 'Programming',
-      progressPercentage: '60',
+      progressPercentage: '80',
     },
   ]
 
@@ -168,6 +168,15 @@ export const experience = [
     date: 'January 2022 – February 2022',
     desc:
       'Operations Technician',
+  },
+    
+    {
+    role: 'Operations Technician',
+    company: 'XYZ',
+    companylogo: github,
+    date: 'February 2022 – Current',
+    desc:
+      'Mechatronics Engineer',
   },
 
 ]
