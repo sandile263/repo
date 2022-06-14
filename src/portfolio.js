@@ -173,7 +173,7 @@ export const experience = [
     {
     role: 'Mechatronics Engineer',
     company: 'XYZ',
-    companylogo: ZSS,
+    companylogo: ZSS, 
     date: 'February 2022 – Present',
     desc:
       'Mechatronics Engineer',
