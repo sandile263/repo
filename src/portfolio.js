@@ -174,7 +174,7 @@ export const experience = [
     role: 'Operations Technician',
     company: 'XYZ',
     companylogo: github,
-    date: 'February 2022 – Current',
+    date: 'February 2022 – Present',
     desc:
       'Mechatronics Engineer',
   },
