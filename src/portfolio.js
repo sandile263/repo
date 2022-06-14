@@ -19,7 +19,7 @@ export const contact = {
 export const socialLinks = {
     "facebook": "https://www.facebook.com/sandile263",
     "instagram": "https://www.instagram.com/thatndebeleguy",
-    "twitter": "https://twitter.com/zimanalytica",
+    "twitter": "https://twitter.com/sandile_263",
     "github": "https://github.com/sandile263",
     "linkedin": "https://linkedin.com/in/sandile-maphosa-a81a78107/"
 }
@@ -108,7 +108,7 @@ export const skillsSection = {
       },
        {
         skillName: 'siemens',
-        fontAwesomeClassname: 'logos:siemens',
+        fontAwesomeClassname: 'logos:siemens-icon',
       },
     ],
 }
