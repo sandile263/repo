@@ -106,6 +106,10 @@ export const skillsSection = {
         skillName: 'docker',
         fontAwesomeClassname: 'logos:docker-icon',
       },
+       {
+        skillName: 'siemens',
+        fontAwesomeClassname: 'logos:siemens',
+      },
     ],
 }
 
