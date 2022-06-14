@@ -18,7 +18,7 @@ export const contact = {
 
 export const socialLinks = {
     "facebook": "https://www.facebook.com/sandile263",
-    
+    "instagram": "https://www.instagram.com/thatndebeleguy",
     "twitter": "https://twitter.com/zimanalytica",
     "github": "https://github.com/sandile263",
     "linkedin": "https://linkedin.com/in/sandile-maphosa-a81a78107/"
